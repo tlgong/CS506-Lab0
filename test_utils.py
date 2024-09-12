@@ -26,7 +26,7 @@ def test_cosine_similarity():
 def test_nearest_neighbor():
     ### YOUR CODE HERE
     vectors =vectors = np.array([
-    [0, -1, 5],
+    [0, -1, 6],
     [4, 5, 6],
     [10, 8, 9]
 ])
