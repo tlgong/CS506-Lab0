@@ -2,7 +2,6 @@
 
 import numpy as np
 import pytest
-from sklearn.metrics.pairwise import cosine_similarity
 from utils import *
 
 def test_dot_product():
